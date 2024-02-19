@@ -86,31 +86,32 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-### Data Set:
-![image](https://github.com/Safeeq-Fazil/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680361/65b41726-0120-4a4b-b40a-d43e248823d9)
+### df.head():
+![Screenshot 2023-08-26 120009](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/4a10342a-4fcc-47db-a298-4d87d6485991)
 
-### Head Value
-![image](https://github.com/Safeeq-Fazil/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680361/240b2352-15b4-43d4-a1e9-5bf7cff9c73c)
+### df.tail():
+![Screenshot 2023-08-26 120021](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/5b1b966e-600d-4aec-821c-0df2d9bbc311)
 
-### Tail Value
-![image](https://github.com/Safeeq-Fazil/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680361/74f38c0c-076a-4468-b7ec-beda04215aa7)
+### Array value of X:
+![Screenshot 2023-08-26 120040](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/bfc57abc-2843-49c2-a296-0ea9c2a26bba)
 
-### X and Y Values
-![image](https://github.com/Safeeq-Fazil/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680361/93dc266d-8193-46b9-aacb-f235729cd7eb)
+### Array value of Y:
+![Screenshot 2023-08-26 120053](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/aadb93a4-2245-4963-9b6a-a1e83a4feaea)
 
-### Predication values of X and Y
-![image](https://github.com/Safeeq-Fazil/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680361/1c6dbe39-5ea4-4fad-9f86-4115bcb5f5b6)
+### Values of Y prediction:
+![Screenshot 2023-08-26 120104](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/f5e5cf9a-c40c-40c7-bff6-21e7ac15f965)
 
-### MSE,MAE and RMSE
-![image](https://github.com/Safeeq-Fazil/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680361/7bbe9578-3bc9-4420-8f78-1c84e39fe21f)
+### Values of Y test:
+![Screenshot 2023-08-26 120116](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/37b5fb12-d11a-48bc-8792-1798f55b3876)
 
-### Training Set
-![image](https://github.com/Safeeq-Fazil/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680361/8719ffc5-5bc7-4a8e-9002-42f8be22da89)
+### Training Set Graph:
+![Screenshot 2023-08-26 120137](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/60125d6d-4c88-4724-9924-a3f66bab0699)
 
+### Test Set Graph:
+![Screenshot 2023-08-26 120210](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/c3e2fb4c-0f13-47a4-af45-b929f1ca90d3)
 
-### Testing Set:
-![image](https://github.com/Safeeq-Fazil/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680361/2afee5df-91f6-4421-b922-c7fa554885fd)
-
+### Values of MSE, MAE and RMSE:
+![Screenshot 2023-08-26 120222](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/513a0073-7dd8-427e-b250-4415a60ea7a1)
 
 
 ## Result:
