@@ -86,32 +86,16 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-### df.head():
-![Screenshot 2023-08-26 120009](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/4a10342a-4fcc-47db-a298-4d87d6485991)
-
-### df.tail():
-![Screenshot 2023-08-26 120021](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/5b1b966e-600d-4aec-821c-0df2d9bbc311)
-
-### Array value of X:
-![Screenshot 2023-08-26 120040](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/bfc57abc-2843-49c2-a296-0ea9c2a26bba)
-
-### Array value of Y:
-![Screenshot 2023-08-26 120053](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/aadb93a4-2245-4963-9b6a-a1e83a4feaea)
-
-### Values of Y prediction:
-![Screenshot 2023-08-26 120104](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/f5e5cf9a-c40c-40c7-bff6-21e7ac15f965)
-
-### Values of Y test:
-![Screenshot 2023-08-26 120116](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/37b5fb12-d11a-48bc-8792-1798f55b3876)
-
-### Training Set Graph:
-![Screenshot 2023-08-26 120137](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/60125d6d-4c88-4724-9924-a3f66bab0699)
-
-### Test Set Graph:
-![Screenshot 2023-08-26 120210](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/c3e2fb4c-0f13-47a4-af45-b929f1ca90d3)
-
-### Values of MSE, MAE and RMSE:
-![Screenshot 2023-08-26 120222](https://github.com/S-ARVIND01/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707337/513a0073-7dd8-427e-b250-4415a60ea7a1)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/12de31bc-efe5-468e-b300-92381a2d6c71)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/a2d17d87-ab45-4b9d-a999-cbb87a9f6d90)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/6cd09eda-6833-41eb-bf9f-8f25d5580894)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/19d37f6d-c10b-43b2-8f08-57e1aa41ff3e)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/f07ee377-a128-45e5-8a02-870e72216dd2)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/6c95449f-3509-4afd-a3ab-3da0005063c7)
+### values of MSE, MAE, RMSE:
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/42a30f4a-4bfa-45b7-a7d9-7d262ee43dc0)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/5f1d8d44-f671-4ecf-93fe-ad5fe620045f)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/4511bbb1-d051-49ef-97f3-434130b651ca)
 
 
 ## Result:
